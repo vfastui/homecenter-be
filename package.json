@@ -1,0 +1,10 @@
+{
+  "name": "homecenter-be",
+  "module": "server.js",
+  "type": "module",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "hono": "^4.7.5"
+  }
+}
