@@ -3,8 +3,12 @@
   "module": "server.js",
   "type": "module",
   "private": true,
-  "devDependencies": {},
+  "scripts": {
+    "dev": "bun run --hot src/server.js"
+  },
   "dependencies": {
-    "hono": "^4.7.5"
-  }
+    "hono": "^4.7.5",
+    "tencentcloud-sdk-nodejs-dnspod": "^4.1.11"
+  },
+  "devDependencies": {}
 }
