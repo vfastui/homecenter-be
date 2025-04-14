@@ -1,7 +1,9 @@
-import {Hono} from 'hono'
-
+import { Hono } from 'hono'
 import dnspod from './mod/dnspod.js'
 
 const app = new Hono()
 app.route('/', dnspod)
-export default app
+export default {
+    port: 9876,
+    fetch: app.fetch,
+}
