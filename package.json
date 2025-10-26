@@ -7,8 +7,8 @@
     "dev": "bun run --hot src/server.js"
   },
   "dependencies": {
-    "hono": "^4.7.5",
-    "tencentcloud-sdk-nodejs-dnspod": "^4.1.11"
+    "hono": "^4.10.3",
+    "tencentcloud-sdk-nodejs-dnspod": "^4.1.115"
   },
   "devDependencies": {}
 }

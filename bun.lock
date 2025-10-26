@@ -52,7 +52,7 @@
 
     "hasown": ["hasown@2.0.2", "", { "dependencies": { "function-bind": "^1.1.2" } }, "sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ=="],
 
-    "hono": ["hono@4.7.5", "", {}, "sha512-fDOK5W2C1vZACsgLONigdZTRZxuBqFtcKh7bUQ5cVSbwI2RWjloJDcgFOVzbQrlI6pCmhlTsVYZ7zpLj4m4qMQ=="],
+    "hono": ["hono@4.10.3", "", {}, "sha512-2LOYWUbnhdxdL8MNbNg9XZig6k+cZXm5IjHn2Aviv7honhBMOHb+jxrKIeJRZJRmn+htUCKhaicxwXuUDlchRA=="],
 
     "https-proxy-agent": ["https-proxy-agent@5.0.1", "", { "dependencies": { "agent-base": "6", "debug": "4" } }, "sha512-dFcAjpTQFgoLMzC2VwU+C/CbS7uRL0lWmxDITmqm7C+7F0Odmj6s9l6alZc6AELXhrnggM2CeWSXHGOdX2YtwA=="],
 
@@ -72,7 +72,7 @@
 
     "tencentcloud-sdk-nodejs-common": ["tencentcloud-sdk-nodejs-common@4.1.1", "", { "dependencies": { "form-data": "^3.0.0", "get-stream": "^6.0.0", "https-proxy-agent": "^5.0.0", "is-stream": "^2.0.0", "json-bigint": "^1.0.0", "node-fetch": "^2.2.0", "tslib": "1.13.0", "uuid": "^9.0.1" } }, "sha512-ipUKFgaAHwAFRI5MiWGvKAle0dilXJ/EzVoJNvOg2FTHSjtPbD1kbaOWuNKG2l1v3C1NtMMSbRRaWFi3HQWz3w=="],
 
-    "tencentcloud-sdk-nodejs-dnspod": ["tencentcloud-sdk-nodejs-dnspod@4.1.11", "", { "dependencies": { "tencentcloud-sdk-nodejs-common": "*", "tslib": "1.13.0" } }, "sha512-+RWGd+p8UlCyEp6lkaUdR0D98oSY6odsTSGuVcnyfTfUeI7mn5rEX8rTnFMy+DfNKBKOJ+G2+4WY+x/jENAr+g=="],
+    "tencentcloud-sdk-nodejs-dnspod": ["tencentcloud-sdk-nodejs-dnspod@4.1.115", "", { "dependencies": { "tencentcloud-sdk-nodejs-common": "*", "tslib": "1.13.0" } }, "sha512-scYlQdc+M7FSuSO/tfCewrJjz0hHgup5rRnhnS39uxlwEcONWUT/Ltu1AZS8nxIqpr4Nsmxcihi2KwIjb2sVgw=="],
 
     "tr46": ["tr46@0.0.3", "", {}, "sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw=="],
 
