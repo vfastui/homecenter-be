@@ -8,6 +8,4 @@ async function getWanIP() {
     }
 }
 
-getWanIP().then((ip) => {
-    console.log('当前外网 IP:', ip)
-})
+export { getWanIP }
